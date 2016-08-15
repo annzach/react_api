@@ -1,0 +1,11 @@
+body{
+  background-color: teal;
+}
+
+#inp_id{
+  width:11%;
+}
+
+.field{
+  display:inline;
+}
